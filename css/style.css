@@ -202,28 +202,7 @@ svg { width: 100%; height: 100%; fill: currentColor; }
   gap: 16px;
   justify-content: center;
   flex-wrap: wrap;
-  margin: 30px 0 50px;
-}
-.hero-stats {
-  display: flex;
-  justify-content: center;
-  gap: 48px;
-  position: relative;
-  z-index: 1;
-}
-.hero-stats div { text-align: center; }
-.hero-stats strong {
-  display: block;
-  font-family: var(--font-title);
-  font-size: 1.6rem;
-  color: var(--white);
-}
-.hero-stats span {
-  font-family: var(--font-sub);
-  font-size: .75rem;
-  text-transform: uppercase;
-  letter-spacing: .1em;
-  color: rgba(245,233,220,.7);
+  margin: 30px 0 10px;
 }
 
 /* ============ SECTIONS ============ */
